@@ -1,0 +1,17 @@
+{
+  "name": "discord-middleman-bot",
+  "version": "1.0.0",
+  "description": "Middleman ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}
